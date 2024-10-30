@@ -1,7 +1,3 @@
-Berikut adalah template `README.md` untuk tugas Anda:
-
----
-
 # DES Encryption & Decryption with Socket Programming
 
 ## Deskripsi Proyek
